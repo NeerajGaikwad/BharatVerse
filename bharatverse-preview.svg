@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BharatVerse — Explore. Preserve. Connect.</title>
+  <desc id="desc">A visual preview of BharatVerse, a digital archive for Indian sculpture and architecture, featuring an illustrated Hampi stone chariot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152d28"/><stop offset="1" stop-color="#203c33"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#e6c99a"/><stop offset=".55" stop-color="#b88957"/><stop offset="1" stop-color="#75563d"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d9e987" stop-opacity=".22"/><stop offset="1" stop-color="#d9e987" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#081814" flood-opacity=".4"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="26" fill="url(#bg)"/>
+  <circle cx="866" cy="316" r="340" fill="url(#glow)"/>
+  <path d="M0 520C230 464 374 558 614 515s376-78 586-28v143H0Z" fill="#10251f" opacity=".55"/>
+  <path d="M0 0h1200v82H0z" fill="#10251f" opacity=".38"/>
+  <circle cx="55" cy="42" r="20" fill="#d9e987"/><text x="55" y="49" text-anchor="middle" fill="#19332b" font-family="Georgia,serif" font-size="22" font-weight="700">भ</text>
+  <text x="88" y="49" fill="#f6f2e7" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="-.5">BharatVerse</text>
+  <text x="895" y="47" fill="#d0d7c9" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.4">THE DIGITAL HERITAGE ARCHIVE</text>
+  <text x="72" y="167" fill="#c9a27a" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.4">A LIVING DIGITAL ARCHIVE</text>
+  <text x="72" y="236" fill="#f5f0e5" font-family="Georgia,serif" font-size="59" letter-spacing="-1.7">History deserves</text>
+  <text x="72" y="302" fill="#f5f0e5" font-family="Georgia,serif" font-size="59" letter-spacing="-1.7">to be held in <tspan fill="#d9e987" font-style="italic">view.</tspan></text>
+  <text x="75" y="358" fill="#c8d0c5" font-family="Arial,sans-serif" font-size="18">Explore India's sculpture and architecture through</text>
+  <text x="75" y="386" fill="#c8d0c5" font-family="Arial,sans-serif" font-size="18">interactive 3D, thoughtful stories, and accessible design.</text>
+  <rect x="74" y="431" width="194" height="49" rx="5" fill="#d9e987"/><text x="171" y="461" text-anchor="middle" fill="#24372c" font-family="Arial,sans-serif" font-size="14" font-weight="700">EXPLORE THE ARCHIVE  ↗</text>
+  <text x="75" y="548" fill="#91a197" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">SIH PROJECT  ·  PRESERVE CULTURAL HERITAGE</text>
+  <g filter="url(#shadow)" transform="translate(693 112)">
+    <rect x="0" y="0" width="436" height="428" rx="12" fill="#18342d" stroke="#799081" stroke-opacity=".5"/>
+    <rect x="18" y="18" width="400" height="353" rx="7" fill="#d4c19b"/>
+    <path d="M18 284Q220 225 418 284v87H18Z" fill="#b59d72" opacity=".5"/>
+    <ellipse cx="218" cy="330" rx="146" ry="17" fill="#6e624a" opacity=".28"/>
+    <g transform="translate(81 68)">
+      <!-- carved base and wheels -->
+      <path d="M33 226h211l-10 27H42Z" fill="url(#stone)" stroke="#654c36" stroke-width="3"/>
+      <path d="M49 232h179M58 244h164" stroke="#6b5038" stroke-width="3" opacity=".75"/>
+      <circle cx="75" cy="267" r="30" fill="url(#stone)" stroke="#654c36" stroke-width="5"/><circle cx="75" cy="267" r="17" fill="none" stroke="#725337" stroke-width="3"/><circle cx="75" cy="267" r="5" fill="#654c36"/>
+      <circle cx="205" cy="267" r="30" fill="url(#stone)" stroke="#654c36" stroke-width="5"/><circle cx="205" cy="267" r="17" fill="none" stroke="#725337" stroke-width="3"/><circle cx="205" cy="267" r="5" fill="#654c36"/>
+      <!-- shrine body -->
+      <path d="M45 217h190v-15H45ZM55 198V122h170v76Z" fill="url(#stone)" stroke="#654c36" stroke-width="3"/>
+      <path d="M45 122h190l-11-14H56Z" fill="#9b7048" stroke="#654c36" stroke-width="3"/>
+      <path d="M64 107h152l-13-14H77Z" fill="url(#stone)" stroke="#654c36" stroke-width="3"/>
+      <path d="M84 92h112l-10-17H94Z" fill="#b88957" stroke="#654c36" stroke-width="3"/>
+      <path d="M103 75h74l-9-17h-56Z" fill="url(#stone)" stroke="#654c36" stroke-width="3"/>
+      <path d="M122 58h36l-7-19h-22Z" fill="#b88957" stroke="#654c36" stroke-width="3"/>
+      <path d="M36 137h208v11H36ZM47 173h185v9H47Z" fill="#d4ad78" stroke="#654c36" stroke-width="2"/>
+      <path d="M82 131v66M113 131v66M145 131v66M178 131v66M209 131v66" stroke="#704f35" stroke-width="6"/>
+      <path d="M87 137v55M118 137v55M150 137v55M183 137v55M214 137v55" stroke="#ebd0a0" stroke-width="2" opacity=".8"/>
+      <path d="M30 211h220M45 222h191" stroke="#684d35" stroke-width="3"/>
+      <path d="M39 155h202M52 187h188" stroke="#d8b77f" stroke-width="2" opacity=".85"/>
+    </g>
+    <rect x="18" y="389" width="7" height="7" rx="4" fill="#d9e987"/><text x="37" y="399" fill="#eff1e5" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.7">01  /  HAMPI · KARNATAKA</text>
+    <text x="293" y="399" fill="#a8b5aa" font-family="Arial,sans-serif" font-size="11">INTERACTIVE 3D</text>
+  </g>
+  <text x="1142" y="570" text-anchor="end" fill="#d9e987" opacity=".75" font-family="Georgia,serif" font-size="37">01</text>
+</svg>
