@@ -1,5 +1,13 @@
 # BharatVerse
 
+<p align="center">
+  <a href="https://neerajgaikwad.github.io/BharatVerse/">
+    <img src="bharatverse-preview.svg" alt="BharatVerse visual preview featuring the Hampi Stone Chariot" width="100%">
+  </a>
+</p>
+
+<p align="center"><a href="https://neerajgaikwad.github.io/BharatVerse/">🌐 Open the live archive</a> · <a href="https://github.com/NeerajGaikwad/BharatVerse">Browse the source</a></p>
+
 **Explore. Preserve. Connect.**
 
 **Author:** Neeraj Gaikwad (`@NeerajGaikwad`)
